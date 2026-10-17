@@ -8,10 +8,9 @@ authors:
     affiliation: "Escola Politécnica da Universidade de São Paulo"
 version: "1.0.0"
 license: MIT
-repository-code: "https://github.com/USUARIO/REPOSITORIO"
+repository-code: "https://github.com/melo-thais/Projeto-Integrado"
 keywords:
   - foguetemodelismo
   - aerodinâmica
-  - identificação de parâmetros
   - ERA5
   - RocketPy
