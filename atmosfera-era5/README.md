@@ -15,7 +15,7 @@ O procedimento é descrito no apêndice "Procedimento para caracterização de c
 5. **Confere o relevo do modelo**: obtém o relevo do ERA5 na mesma área e verifica, nos quatro pontos da grade em torno do trilho, se os níveis usados na interpolação até o trilho estão acima dele. Abaixo do relevo, os valores dos níveis de pressão são extrapolados, e não calculados pelo modelo.
 6. **Salva o arquivo final** na pasta de trabalho e mostra os valores usados na conferência.
 
-## Acesso ao CDS:
+## Acesso ao CDS
 
 1. Crie uma conta no [Climate Data Store](https://cds.climate.copernicus.eu), se ainda não tiver.
 2. Abra as páginas [*ERA5 hourly data on pressure levels*](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-pressure-levels) e [*ERA5 hourly data on single levels*](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels) e aceite a licença de cada uma (aba *Download*, no fim do formulário).
