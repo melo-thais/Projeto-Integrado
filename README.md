@@ -3,7 +3,7 @@
 Material do trabalho de conclusão de curso *Análise aerodinâmica de foguetes experimentais em regime de voo livre por processamento de sinais e rede neural informada por física*, do curso de Engenharia Mecânica da Escola Politécnica da Universidade de São Paulo.
 
 - **Autora:** Thais Silva Melo
-- **Orientação:** Prof. Dr. Marlon Sproesser Mathias (Escola Politécnica da USP)
+- **Orientação:** Prof. Dr. Marlon Sproesser Mathias
 
 ## Organização
 
